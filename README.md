@@ -19,7 +19,7 @@ This project analyzes airline passenger satisfaction using Python, Pandas, Matpl
 ## How to Run
 1. Clone this repository:
 ```bash
-git clone https://github.com/YourUsername/airline-satisfaction-analysis.git
+git clone https://github.com/CGeethaka/Airline-Passenger-Satisfaction/tree/main
  ```
 ## Navigate to the folder
 cd airline_satisfaction_analysis.
