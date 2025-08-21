@@ -31,6 +31,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
 jupyter lab
 
 ## Notes 
-*The dataset is included in the repository (airline-satisfaction-analysis.csv).
-*All plots and analyses are contained in analysis.ipynb.
-*Transparency (alpha) and grid styling are used for better visualization clarity.
+- The dataset is included in the repository (airline-satisfaction-analysis.csv).
+- All plots and analyses are contained in analysis.ipynb.
+- Transparency (alpha) and grid styling are used for better visualization clarity.
